@@ -1,0 +1,28 @@
+body{
+background: rgb(75, 142, 186);
+}
+h1{
+color: rgb(23, 98, 164);
+}
+
+h3{
+background: darkgrey;
+color: aqua;
+
+}
+
+div{
+background-image: url(images/images.jpg);
+font-size: 1.5em;
+color: rgb(255, 255, 255);
+}
+
+p{
+color: brown;
+font-size: 1.5em;
+background: rgb(181, 181, 106);
+}
+
+ul{
+color: white;
+}
